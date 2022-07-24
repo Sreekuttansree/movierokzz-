@@ -27,15 +27,14 @@ Bot Owner Only
 
 """
 
-ABOUT = """
-➥ Name :  Auto Filter V3
+എന്നെ അറിയൂ = """
+➥ Name :  Sunny Chechi💋
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ 𝐆𝐫𝐨𝐮𝐩 : (https://t.me/MR_ChatGrp)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Main Chennel : (https://t.me/Movie_Rockz2)
 """
